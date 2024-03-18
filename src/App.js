@@ -7,7 +7,7 @@ function App() {
       <br />
       <br />
       <hr />
-      <div class="container">
+      <div className="container">
         <img
           src="https://static0.srcdn.com/wordpress/wp-content/uploads/2020/01/schitts-creek-cast-photo-Edited.jpg"
           alt="Schitt's Creek"
